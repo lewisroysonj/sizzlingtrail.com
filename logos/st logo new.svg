@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 496 86" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="_-sizzling-bg2" serif:id=" sizzling bg2" transform="matrix(0.995363,0,0,1,344.268,42.7661)">
+        <g transform="matrix(1,0,0,1,-152,-37.5)">
+            <clipPath id="_clip1">
+                <rect x="0" y="0" width="304" height="75"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g>
+                    <path d="M304,37.5C304,16.803 287.197,0 266.5,0L37.5,0C16.803,0 0,16.803 0,37.5C0,58.197 16.803,75 37.5,75L266.5,75C287.197,75 304,58.197 304,37.5Z" style="fill:rgb(150,219,205);stroke:rgb(150,219,205);stroke-width:1px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="sizzling-bg" serif:id="sizzling bg" transform="matrix(1,0,0,1,152.218,42.6903)">
+        <g transform="matrix(1,0,0,1,-152,-37.5)">
+            <clipPath id="_clip2">
+                <rect x="0" y="0" width="304" height="75"/>
+            </clipPath>
+            <g clip-path="url(#_clip2)">
+                <g>
+                    <path d="M304,37.5C304,16.803 287.197,0 266.5,0L37.5,0C16.803,0 0,16.803 0,37.5C0,58.197 16.803,75 37.5,75L266.5,75C287.197,75 304,58.197 304,37.5Z" style="fill:rgb(235,156,129);"/>
+                    <path d="M303.5,37.5C303.5,17.079 286.921,0.5 266.5,0.5L37.5,0.5C17.079,0.5 0.5,17.079 0.5,37.5C0.5,57.921 17.079,74.5 37.5,74.5L266.5,74.5C286.921,74.5 303.5,57.921 303.5,37.5Z" style="fill:none;stroke:rgb(235,156,129);stroke-width:1px;stroke-linejoin:miter;stroke-miterlimit:4;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,6.55398,67.3699)">
+        <text x="0px" y="0px" style="font-family:'FuturaBT-Book', 'Futura Bk BT', sans-serif;font-size:70px;fill:white;stroke:rgb(112,112,112);stroke-opacity:0;stroke-width:1px;stroke-linejoin:miter;stroke-miterlimit:4;">SIZZLING</text>
+    </g>
+    <g transform="matrix(1,0,0,1,301.289,67.0522)">
+        <text x="0px" y="0px" style="font-family:'FuturaBT-Book', 'Futura Bk BT', sans-serif;font-size:70px;fill:white;stroke:rgb(112,112,112);stroke-opacity:0;stroke-width:1px;stroke-linejoin:miter;stroke-miterlimit:4;">TRAIL<tspan x="168.027px " y="0px ">.</tspan></text>
+    </g>
+</svg>
