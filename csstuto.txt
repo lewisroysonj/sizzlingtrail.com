@@ -4,6 +4,6 @@ Position 1.Static- > default property > next line 2.Relative- .box {
   border: 5px solid black;
   margin: 20px auto;
 }
-we96gfefewyfeyfufefefefeffsb,sdgnegn
+we96gfefewyfeyfufefefefeffsb,sdgnegnwefwedio
 .item {
 }
