@@ -67,3 +67,36 @@ function showSlides2(no) {
   slides2[slideIndex2 - 1].style.display = "block";
   dots2[slideIndex2 - 1].className += " travelactive";
 }
+
+function myFunction() {
+  var popup = document.getElementById("myPopup");
+  popup.classList.toggle("show");
+}
+
+function myFunction2() {
+  var modal = document.getElementById("myModal");
+  modal.classList.toggle("show");
+}
+
+function myFunction3() {
+  var linkmodale = document.getElementById("mylinkmodal");
+  var linkmodale2 = document.getElementById("mylinkmodal2");
+  linkmodale.classList.toggle("show");
+  linkmodale2.classList.toggle("show");
+}
+
+function myFunction4() {
+  var copyText = document.getElementById("myInput");
+
+  copyText.select();
+  copyText.setSelectionRange(0, 99999);
+
+  document.execCommand("copy");
+  alert("link Copied");
+}
+
+const likeButton = document.querySelector(".likebutton");
+
+likeButton.addEventListener("click", () => {
+  likeButton.classList.add("open");
+});
